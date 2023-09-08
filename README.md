@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj Khanna</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **Airline Booking Backend Application**
 
